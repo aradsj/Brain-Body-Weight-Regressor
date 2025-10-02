@@ -1,8 +1,3 @@
----
-
-## ۴. Brain-Body-Weight-Regressor
-
-```markdown
 # 🧠 Brain-Body-Weight-Regressor
 
 Regression analysis to predict animal body weight based on brain weight. This project uses the **K-Nearest Neighbors (KNN)** model and demonstrates the critical need for **feature scaling** in distance-based algorithms.
@@ -44,7 +39,7 @@ Clone the repository:
 
 Bash
 
-git clone [https://github.com/YOUR_USERNAME/Brain-Body-Weight-Regressor.git](https://github.com/YOUR_USERNAME/Brain-Body-Weight-Regressor.git)
+git clone https://github.com/YOUR_USERNAME/Brain-Body-Weight-Regressor.git
 cd Brain-Body-Weight-Regressor
 Run the Notebook:
 
