@@ -32,18 +32,15 @@ Regression analysis to predict animal body weight based on brain weight. This pr
 
 ### Installation
 
-```bash
 pip install pandas numpy scikit-learn jupyter
 Execution
 Clone the repository:
 
-Bash
 
 git clone https://github.com/YOUR_USERNAME/Brain-Body-Weight-Regressor.git
 cd Brain-Body-Weight-Regressor
 Run the Notebook:
 
-Bash
 
 jupyter notebook animal_weight.ipynb
 📂 File Structure
